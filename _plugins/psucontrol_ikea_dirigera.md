@@ -33,7 +33,7 @@ screenshots:
   alt: IKEA Homesmart Device Settings
   caption: IKEA Homesmart device settings
 
-featuredimage: /assets/img/psucontrol_ikea_dirigera/OctoPrintXIKEA.png
+featuredimage: /assets/img/plugins/psucontrol_ikea_dirigera/OctoPrintXIKEA.png
 
 compatibility:
   python: ">=3,<4"
